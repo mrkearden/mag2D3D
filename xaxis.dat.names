@@ -1,0 +1,30 @@
+Metadata for SaveLine file: ./xaxis.dat
+Elmer version: 9.0
+Elmer revision: Release
+Elmer compilation date: 2023-05-04
+Solver input file: case.sif
+File started at: 2023/07/26 08:17:24
+Number of data nodes for each step
+  bc nodes: 0
+  polyline nodes: 1001
+  circle nodes: 0
+  isocurve nodes: 0
+Data on different columns
+  1: Call count
+  2: Boundary condition
+  3: Node index
+  4: coordinate 1
+  5: coordinate 2
+  6: coordinate 3
+  7: magnetic flux density 1
+  8: magnetic flux density 2
+  9: magnetic flux density 3
+ 10: magnetic field strength 1
+ 11: magnetic field strength 2
+ 12: magnetic field strength 3
+ 13: magnetic flux density e 1
+ 14: magnetic flux density e 2
+ 15: magnetic flux density e 3
+ 16: magnetic field strength e 1
+ 17: magnetic field strength e 2
+ 18: magnetic field strength e 3
